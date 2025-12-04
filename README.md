@@ -27,7 +27,7 @@
 1. 安装 Tampermonkey 浏览器扩展
 2. 点击下面的链接安装脚本：
    
-   **[点击安装脚本]([https://github.com/yourusername/video-speed-control/raw/main/cancel_video_pause.js](https://raw.githubusercontent.com/ffengdoudou/Online-party-school/refs/heads/main/Onlinepartyschool.js))**
+   **[点击安装脚本](https://raw.githubusercontent.com/ffengdoudou/Online-party-school/refs/heads/main/Onlinepartyschool.js)**
 
 3. 或者手动复制代码到 Tampermonkey：
    - 打开 Tampermonkey 仪表板
