@@ -19,7 +19,7 @@
 
 2. **安装用户脚本**
    - 方法一：直接安装
-     - 点击 [安装链接](https://github.com/yourusername/video-speed-control/raw/main/cancel_video_pause.js)
+     - 点击 [安装链接](https://raw.githubusercontent.com/ffengdoudou/Online-party-school/refs/heads/main/Onlinepartyschool.js)
      - Tampermonkey 会自动识别并提示安装
    
    - 方法二：手动安装
@@ -114,3 +114,4 @@
 | Edge | ✅ 完全支持 | 基于Chromium |
 | Safari | ⚠️ 部分支持 | 需要用户确认 |
 | Opera | ✅ 完全支持 | 基于Chromium |
+
